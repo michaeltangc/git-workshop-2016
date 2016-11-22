@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 New ! Richard Mike the bot
 is a nice bot
 but sadly it cannot talk
+=======
+Richard Mike the bot
+is a well made chatbot
+but he cannot talk
+>>>>>>> Changed haiku
